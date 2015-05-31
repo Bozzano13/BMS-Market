@@ -22,4 +22,8 @@ bin/phpcrodm
 bin/phpcrodm.php
 bin/jackalope
 bin/phpunit
+vendor
+nbproject
+
 vendor/*
+nbproject/*
